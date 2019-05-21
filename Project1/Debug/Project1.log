@@ -1,0 +1,14 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Project1.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  stdafx.cpp
+  Bishop.cpp
+  BlackPawn.cpp
+  King.cpp
+  Knight.cpp
+  Queen.cpp
+  Rook.cpp
+  Piece.cpp
+  main.cpp
+  WhitePawn.cpp
+  Generating Code...
+c:\users\dell\source\repos\project1\project1\main.cpp(606): warning C4715: 'checkmovevalidity': not all control paths return a value
+  Project1.vcxproj -> C:\Users\Dell\source\repos\Project1\Debug\Chess.exe
